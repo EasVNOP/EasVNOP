@@ -9,3 +9,4 @@
 👇这些是我的代表作~<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EasVNOP&repo=SycaCore-V2)](https://github.com/EasVNOP/SycaCore-V2)
+![](https://changkun.de/urlstat?mode=github&repo=EasVNOP/EasVNOP)
