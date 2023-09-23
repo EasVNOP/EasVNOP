@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=大家好+这里是VNOP工作室;我是腐竹EasonZhao;看看我的项目吧&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <p align="center">
-    <a href="https://github.com/EasVNOP/EasVNOP">
+    <a href="https://github.com/freeCodeCamp/freeCodeCamp">
       <img alt="Tests Passing" src="https://komarev.com/ghpvc/?username=EasVNOP" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
